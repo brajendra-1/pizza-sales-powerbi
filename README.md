@@ -2,6 +2,10 @@
 
 An end-to-end data analytics project — from raw CSV to an interactive Power BI dashboard — built to surface actionable business insights for a pizza restaurant.
 
+## 📊 Dashboard Preview
+![Pizza Sales Dashboard](pizza_sales.PNG)
+
+---
 ---
 
 ## 📌 Project Overview
@@ -76,4 +80,4 @@ Every KPI in this dashboard has a business question behind it.
 
 ## 📬 Connect
 
-Feel free to reach out on [LinkedIn](#) if you want to discuss the project or the methodology.
+Feel free to reach out on [www.linkedin.com/in/brajendra-verma-analyst](#) if you want to discuss the project or the methodology.
